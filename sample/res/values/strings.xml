@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MVP-DEMO</string>
+    <string name="action_settings">action_settings</string>
+    <string name="user">UserInfo</string>
+    <string name="user_list">UserList</string>
+    <string name="user_package">UserPackage</string>
+
+</resources>
